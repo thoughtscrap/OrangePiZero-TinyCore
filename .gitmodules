@@ -1,0 +1,3 @@
+[submodule "linux_kernel"]
+	path = linux_kernel
+	url = https://github.com/orangepi-xunlong/mainline_kernel.git
